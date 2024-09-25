@@ -19,7 +19,7 @@ function startCountdown() {
     }, 1000);
 }
 
-// Task 2: Delayed Notification
+// Delayed Notification
 
 function showDelayedNotification(){
     setTimeout(() => {
@@ -27,7 +27,7 @@ function showDelayedNotification(){
     }, 10000);
 }
 
-// Task 3: Repeat Notification
+// Repeat Notification
 
 let notificationInterval;
 
